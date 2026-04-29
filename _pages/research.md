@@ -1,11 +1,9 @@
 ---
 layout: single
-title: 
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Research
 
 My research lies in frame theory and sampling theory, with emphasis on reconstruction problems in Hilbert spaces and applications to signal processing. I am interested in understanding how signals can be stably recovered from incomplete or indirect measurements, particularly in settings where classical orthogonal methods are not adequate.
 
