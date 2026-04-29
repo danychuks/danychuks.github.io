@@ -61,21 +61,24 @@ Teaching experience
 
 * Instructor, Pure Mathematics 1 and 3, Statistics 1 and 3, Mechanics
 
-## Awards and Honors
+Awards and Honors
+======
 
 - GPSA Travel Award, University of Idaho (2024)  
 - Most Outstanding Student Award, University of Ibadan (2006, 2009)  
 - Silver Medalist, National Mathematics Competition (2008)  
 - Dean’s Honour Roll, University of Ibadan (2005–2007) 
 
-## Grants and Scholarships
+Grants and Scholarships
+======
 
 - Teaching Assistantship, University of Idaho (2023–2026)  
 - Boisen Mathematics Graduate Scholarship (2024–2026)  
 - Renfrew, Malcolm & Carol Math Scholarship (2023–2024)  
 - Boron, Leo F. Memorial Fellows Scholarship (2023–2024) 
 
-## Professional Membership
+Professional Membership
+======
 
 - American Mathematical Society (AMS), Graduate Student Member, 2025-present  
 - National Society for Black Engineers (NSBE)
@@ -100,7 +103,9 @@ Publications
   
 Talks
 ======
- 
+- *On fixed point theorems for sums of certain mappings in locally convex spaces*,  
+  International Conference on Contemporary Mathematics and the Real World,  
+  University of Ibadan, Nigeria. :contentReference[oaicite:0]{index=0}
 
   
 Service and leadership
