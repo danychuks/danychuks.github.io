@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+Talks
+=====
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+- *On fixed point theorems for sums of certain mappings in locally convex spaces*,  
+  International Conference on Contemporary Mathematics and the Real World,  
+  University of Ibadan, Nigeria. :contentReference[oaicite:0]{index=0}
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
