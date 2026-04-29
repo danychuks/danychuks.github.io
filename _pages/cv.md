@@ -75,6 +75,11 @@ Teaching experience
 - Renfrew, Malcolm & Carol Math Scholarship (2023–2024)  
 - Boron, Leo F. Memorial Fellows Scholarship (2023–2024) 
 
+## Professional Membership
+
+- American Mathematical Society (AMS), Graduate Student Member, 2025-present  
+- National Society for Black Engineers (NSBE)
+- Society for Industrial and Applied Mathematics (SIAM), Graduate Student Member, 2026–present  
 
 
   
