@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
-
 I am a PhD candidate in mathematics...
 I am a PhD candidate in mathematics, working in the area of frame theory and dynamical sampling, with applications to signal processing. My research focuses on understanding sampling and reconstruction in more general settings, including infinite-dimensional spaces and systems governed by linear operators.
 
