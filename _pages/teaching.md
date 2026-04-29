@@ -9,16 +9,13 @@ author_profile: true
 Teaching experience
 ======
 ### University of Idaho
-
-* Teaching Assistant, Survey of Calculus (MATH 160), Fall 2023  
+    
+* Instructor, Calculus III (MATH 2750), Fall 2025 – Spring 2026; Summer 2025, 2026  
+* Instructor, Calculus I (MATH 170), Summer 2024, 2025, 2026  
+* Teaching Assistant, Survey of Calculus (MATH 160), Fall 2023; Spring 2025  
 * Teaching Assistant, Calculus I (MATH 170), Spring 2024  
-* Instructor, Calculus I (MATH 170), Summer 2024  
 * Teaching Assistant, Calculus II (MATH 175), Fall 2024  
-* Teaching Assistant, Survey of Calculus (MATH 160), Spring 2025  
-* Instructor, Calculus I (MATH 170), Summer 2025, 2026  
-* Instructor, Calculus III (MATH 2750), Summer 2025, 2026 
-* Instructor, Calculus III (MATH 2750), Fall 2025, Spring 2026 
-
+ 
 ### University of Ibadan
 
 * Instructor, Real Analysis I (MAT 221), 2018/2019, 2021/2022  
