@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 title: ""
 author_profile: true
 redirect_from: 
@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+## About
+
+I am a PhD candidate in mathematics...
 I am a PhD candidate in mathematics, working in the area of frame theory and dynamical sampling, with applications to signal processing. My research focuses on understanding sampling and reconstruction in more general settings, including infinite-dimensional spaces and systems governed by linear operators.
 
 I am particularly interested in fusion frames, Gabor frames, and the extension of dynamical sampling to unbounded operators. My goal is to develop theoretical results that can also connect to practical problems in signal processing.
