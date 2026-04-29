@@ -72,7 +72,7 @@ body::before {
   z-index: 0;
   pointer-events: none;
 
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 600' preserveAspectRatio='none'%3E%3Cpath d='M1200,0 C1000,120 900,180 720,190 C520,200 400,140 230,230 C120,290 60,370 0,460 L0,0 Z' fill='%23eaf3ff' opacity='0.85'/%3E%3Cpath d='M1200,0 C980,80 850,110 680,135 C480,165 330,210 160,315 C90,360 40,420 0,500 L0,0 Z' fill='%23dcecff' opacity='0.45'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 600' preserveAspectRatio='none'%3E%3Cpath d='M1200,0 C1000,120 900,180 720,190 C520,200 400,140 230,230 C120,290 60,370 0,460 L0,0 Z' fill='%23f2f6fc' opacity='0.9'/%3E%3Cpath d='M1200,0 C980,80 850,110 680,135 C480,165 330,210 160,315 C90,360 40,420 0,500 L0,0 Z' fill='%23e8f0fb' opacity='0.6'/%3E%3C/svg%3E");
 
   background-repeat: no-repeat;
   background-position: right top;
@@ -88,7 +88,7 @@ body::before {
 }
 
 .page {
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.85);
   border-radius: 8px;
   padding: 1.5em;
 }
