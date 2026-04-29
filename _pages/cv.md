@@ -62,6 +62,15 @@ Teaching experience
 * Instructor, Pure Mathematics 1 and 3, Statistics 1 and 3, Mechanics
 
 
+### Grants and Scholarships
+
+- Teaching Assistantship, University of Idaho (2023–2026)  
+- Boisen Mathematics Graduate Scholarship (2024–2026)  
+- Renfrew, Malcolm & Carol Math Scholarship (2023–2024)  
+- Boron, Leo F. Memorial Fellows Scholarship (2023–2024) 
+
+
+
   
 Skills
 ======
