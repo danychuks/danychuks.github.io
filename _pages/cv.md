@@ -18,8 +18,8 @@ Education
 Professional Experience
 ======
 
-* Graduate Teaching Assistant,
-  University of Idaho, USA,
+* Graduate Teaching Assistant,<br>
+  University of Idaho, USA,<br>
   2023 – present  
 
 * Lecturer II,
