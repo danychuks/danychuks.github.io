@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics, GUniversity of Idaho, 2028 (expected)
+* PhD in Mathematics, University of Idaho, 2028 (expected)
 * M.S. in Mathematics, University of Ibadan 2014
 * B.S. in Mathematics, University of Ibadan, 2009
 
@@ -24,7 +24,8 @@ Professional Experience
 * Lecturer II, University of Ibadan, Nigeria  
 2022 – 2023  
 
-* Assistant Lecturer, University of Ibadan, Nigeria  
+* Assistant Lecturer,
+University of Ibadan, Nigeria  
 2019 – 2022  
 
 * Mathematics Lecturer (Cambridge A-Level), The Vale Tutorial College, Nigeria  
