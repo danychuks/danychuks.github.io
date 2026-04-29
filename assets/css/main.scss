@@ -1,5 +1,19 @@
 ---
+# Only the main Sass file needs front matter
 ---
+
+h1, h2, h3 {
+  color: #1f4e79;
+}
+
+a {
+  color: #0b7285;
+}
+
+a:hover {
+  color: #d9480f;
+}
+
 
 /*
  * This file controls what is imported from /_sass
