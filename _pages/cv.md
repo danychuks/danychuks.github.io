@@ -88,12 +88,8 @@ Professional Membership
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, R, LaTeX  
+* Language: English  
 
 Publications
 ======
@@ -105,9 +101,5 @@ Talks
 ======
 - *On fixed point theorems for sums of certain mappings in locally convex spaces*,  
   International Conference on Contemporary Mathematics and the Real World,  
-  University of Ibadan, Nigeria. :contentReference[oaicite:0]{index=0}
-
+  University of Ibadan, Nigeria.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
