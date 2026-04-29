@@ -61,6 +61,12 @@ Teaching experience
 
 * Instructor, Pure Mathematics 1 and 3, Statistics 1 and 3, Mechanics
 
+## Awards and Honors
+
+- GPSA Travel Award, University of Idaho (2024)  
+- Most Outstanding Student Award, University of Ibadan (2006, 2009)  
+- Silver Medalist, National Mathematics Competition (2008)  
+- Dean’s Honour Roll, University of Ibadan (2005–2007) 
 
 ## Grants and Scholarships
 
