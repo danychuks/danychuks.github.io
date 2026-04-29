@@ -9,16 +9,16 @@
 
 main:
   - title: "Research"
-    url: /research/ 
+    url:https://danychuks.github.io/research/ 
     
   - title: "Publications"
-    url: /publications/
+    url: https://danychuks.github.io/publications/
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: https://danychuks.github.io/teaching/ 
 
   - title: "Talks"
-    url: /talks/    
+    url: https://danychuks.github.io/talks/    
   
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -27,7 +27,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://danychuks.github.io/cv/
     
   # - title: "CV"
   #   url: /cv-json/
