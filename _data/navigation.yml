@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-    url:https://danychuks.github.io/research/ 
+    url: https://danychuks.github.io/research/ 
     
   - title: "Publications"
     url: https://danychuks.github.io/publications/
