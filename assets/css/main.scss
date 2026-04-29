@@ -65,17 +65,18 @@ html, body {
 body::before {
   content: "";
   position: fixed;
-  top: 0;
+  top: 70px;
   right: 0;
-  width: 70%;
-  height: 100%;
+  width: 65%;
+  height: 45%;
   z-index: 0;
+  pointer-events: none;
 
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 1200' preserveAspectRatio='none'%3E%3Cpath d='M1200,0 C1100,200 950,300 800,350 C650,400 500,380 350,450 C200,520 100,650 0,750 L0,0 Z' fill='%23eaf3ff'/%3E%3Cpath d='M1200,0 C1000,150 850,180 700,230 C550,280 400,320 250,380 C150,430 80,520 0,600 L0,0 Z' fill='%23dcecff'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 600' preserveAspectRatio='none'%3E%3Cpath d='M1200,0 C1000,120 900,180 720,190 C520,200 400,140 230,230 C120,290 60,370 0,460 L0,0 Z' fill='%23eaf3ff' opacity='0.85'/%3E%3Cpath d='M1200,0 C980,80 850,110 680,135 C480,165 330,210 160,315 C90,360 40,420 0,500 L0,0 Z' fill='%23dcecff' opacity='0.45'/%3E%3C/svg%3E");
 
   background-repeat: no-repeat;
   background-position: right top;
-  background-size: cover;
+  background-size: contain;
 }
 
 .masthead,
@@ -84,4 +85,10 @@ body::before {
 .page {
   position: relative;
   z-index: 1;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 8px;
+  padding: 1.5em;
 }
