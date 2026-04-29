@@ -18,8 +18,7 @@ Education
 Professional Experience
 ======
 
-* Graduate Teaching Assistant, University of Idaho, USA  
-2023 – present  
+* Graduate Teaching Assistant, University of Idaho, USA 2023 – present  
 
 * Lecturer II, University of Ibadan, Nigeria  
 2022 – 2023  
