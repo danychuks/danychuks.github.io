@@ -19,19 +19,19 @@ Professional Experience
 ======
 
 * Graduate Teaching Assistant,<br>
-  University of Idaho, USA, 2023 – present  
+  University of Idaho, USA,<br> 2023 – present  
 
 * Lecturer II,<br>
-  University of Ibadan, Nigeria, 2022 – 2023  
+  University of Ibadan, Nigeria,<br> 2022 – 2023  
 
 * Assistant Lecturer,<br>
-  University of Ibadan, Nigeria, 2019 – 2022  
+  University of Ibadan, Nigeria,<br> 2019 – 2022  
 
 * Mathematics Lecturer (Cambridge A-Level),<br>
-  The Vale Tutorial College, Nigeria, 2014 – 2019  
+  The Vale Tutorial College, Nigeria,<br> 2014 – 2019  
 
 * Teaching Assistant,<br>
-  University of Ibadan, Nigeria, 2012 – 2014  
+  University of Ibadan, Nigeria,<br> 2012 – 2014  
 
 Teaching experience
 ======
