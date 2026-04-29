@@ -7,26 +7,28 @@ author_profile: true
 
 ## Research
 
-My research interests are in frame theory and dynamical sampling, with applications to signal processing and reconstruction problems in Hilbert spaces.
+My research lies in frame theory and sampling theory, with emphasis on reconstruction problems in Hilbert spaces and applications to signal processing. I am interested in understanding how signals can be stably recovered from incomplete or indirect measurements, particularly in settings where classical orthogonal methods are not adequate.
 
-A central theme in my work is the study of stable reconstruction from incomplete or indirect measurements. In many practical settings, one does not observe a signal directly, but rather through a sampling process that may be constrained or imperfect. Frame theory provides a flexible framework for addressing such problems, allowing for redundancy and stability in representation.
+A guiding principle in my work is the study of stability and consistency in reconstruction. In many practical situations, the sampling and reconstruction spaces do not coincide, which naturally leads to non-orthogonal methods and more flexible geometric structures.
 
 ## Current Research Direction
 
-My current work focuses on frames arising from oblique projections and the role of oblique projections in consistent sampling. In contrast to orthogonal projections, oblique projections allow reconstruction with respect to different subspaces, which is natural in applications where sampling and reconstruction spaces do not coincide.
+My current research focuses on frames arising from oblique projections and their role in consistent sampling. Unlike orthogonal projections, oblique projections allow reconstruction relative to different subspaces, making them well-suited for modeling situations where sampling and reconstruction are performed in distinct spaces.
 
-I am interested in understanding how such projections generate frame structures, and how these frames can be used to guarantee stable and consistent reconstruction. In particular, I study conditions under which sampling and reconstruction processes remain stable when modeled through oblique projection operators.
+I study how such projections induce frame structures and investigate conditions under which they yield stable and consistent reconstruction. In particular, I am interested in the interaction between the geometry of subspaces, operator-theoretic properties of projections, and frame bounds.
 
 ## Connection to Dynamical Sampling
 
-In addition, I am interested in dynamical sampling problems, where measurements are taken from an evolving system. My broader goal is to connect these ideas with settings involving unbounded linear operators, where many classical assumptions no longer hold.
+I am also interested in dynamical sampling problems, where data are collected from an evolving system over time. My broader goal is to extend these ideas to settings involving unbounded linear operators, which arise naturally in many evolution equations. This direction raises new challenges related to domain issues, stability, and reconstruction.
 
 ## Related Interests
 
-I also work on fusion frames, Gabor frames, scalable frames, and weighted frames, especially in relation to reconstruction theory and applications in signal processing.
+My broader interests include fusion frames, Gabor frames, scalable frames, weighted frames, and oblique projections, especially in connection with distributed sampling, redundant representations, and robust reconstruction methods.
+
+## Research Outlook
+
+My long-term goal is to develop a unified framework for sampling and reconstruction that accommodates non-orthogonal geometries and general operator settings, bridging ideas from frame theory, operator theory, and applications in signal processing.
 
 ## Keywords
 
-Frame theory, oblique projections, consistent sampling, dynamical sampling, Hilbert spaces, unbounded operators, Gabor frames, fusion frames, signal processing.
-
-
+Frame theory, oblique projections, consistent sampling, dynamical sampling, Hilbert spaces, unbounded operators, fusion frames, Gabor frames, signal processing.
