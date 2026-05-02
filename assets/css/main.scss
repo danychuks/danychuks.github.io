@@ -1,9 +1,8 @@
 ---
 # Only the main Sass file needs front matter
 ---
-
 h1, h2, h3 {
-  color: #1f4e79;
+  color: #0b3d91;
 }
 
 a {
@@ -62,21 +61,8 @@ html, body {
   background: #f7f9fc !important;
 }
 
-body::before {
-  content: "";
-  position: fixed;
-  top: 70px;
-  right: 0;
-  width: 65%;
-  height: 45%;
-  z-index: 0;
-  pointer-events: none;
-
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 600' preserveAspectRatio='none'%3E%3Cpath d='M1200,0 C1000,120 900,180 720,190 C520,200 400,140 230,230 C120,290 60,370 0,460 L0,0 Z' fill='%23f2f6fc' opacity='0.9'/%3E%3Cpath d='M1200,0 C980,80 850,110 680,135 C480,165 330,210 160,315 C90,360 40,420 0,500 L0,0 Z' fill='%23e8f0fb' opacity='0.6'/%3E%3C/svg%3E");
-
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-size: contain;
+body {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
 }
 
 .masthead,
@@ -88,7 +74,23 @@ body::before {
 }
 
 .page {
-  background-color: rgba(255, 255, 255, 0.85);
-  border-radius: 8px;
-  padding: 1.5em;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2em;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+body, p {
+  color: #222222;
+}
+
+.sidebar {
+  background: rgba(255,255,255,0.9);
+  padding: 1em;
+  border-radius: 10px;
+}
+
+.masthead {
+  background: #ffffff;
+  border-bottom: 2px solid #2c5364;
 }
